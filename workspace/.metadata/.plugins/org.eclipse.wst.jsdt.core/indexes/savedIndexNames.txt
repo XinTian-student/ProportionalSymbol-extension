@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1349563529.index
+3541212839.index
+3435648363.index
+1731162389.index
+4162103650.index
+1563429338.index

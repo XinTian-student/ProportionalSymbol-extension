@@ -1,0 +1,1005 @@
+2020-07-04 19:27:35,089 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-04 19:29:43,429 [Worker-31: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.geotools:tutorial:0.0.1-SNAPSHOT @ C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\tutorial\pom.xml.
+2020-07-04 19:29:45,110 [Worker-31: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tutorial/src/main/java
+2020-07-04 19:29:45,111 [Worker-31: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tutorial/src/main/resources
+2020-07-04 19:29:45,130 [Worker-31: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tutorial/src/test/java
+2020-07-04 19:29:45,302 [Worker-31: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2020-07-04 19:29:46,626 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:29:46,629 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-04 19:29:46,641 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:29:46,642 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\tutorial\src\test\resources
+2020-07-04 19:33:25,620 [Worker-31: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.geotools:demo:0.0.1-SNAPSHOT @ C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\pom.xml.
+2020-07-04 19:33:26,110 [Worker-31: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2020-07-04 19:33:26,110 [Worker-31: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2020-07-04 19:33:26,110 [Worker-31: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2020-07-04 19:33:26,223 [Worker-31: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2020-07-04 19:33:27,052 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:33:27,053 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-04 19:33:27,056 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:33:27,057 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 19:33:27,092 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:33:27,092 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\tutorial\src\main\resources
+2020-07-04 19:33:27,093 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:33:27,093 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\tutorial\src\test\resources
+2020-07-04 19:35:18,865 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:35:18,871 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-04 19:35:18,876 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:35:18,876 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 19:35:34,310 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:35:34,310 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 19:35:34,311 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:35:34,311 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 19:35:34,323 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:35:34,323 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\tutorial\src\main\resources
+2020-07-04 19:35:34,324 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:35:34,324 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\tutorial\src\test\resources
+2020-07-04 19:39:05,450 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:39:05,451 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-04 19:39:05,457 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:39:05,457 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 19:46:30,448 [Worker-47: Building Project demo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:46:30,449 [Worker-47: Building Project demo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-04 19:46:30,452 [Worker-47: Building Project demo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:46:30,453 [Worker-47: Building Project demo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 19:47:03,973 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:47:03,973 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 19:47:03,974 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:47:03,974 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 19:47:05,063 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:47:05,063 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 19:47:05,064 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:47:05,064 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 19:47:09,027 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:47:09,027 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 19:47:09,028 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:47:09,028 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 19:51:27,137 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:51:27,138 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-04 19:51:27,141 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:51:27,142 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 19:52:53,398 [Worker-31: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-04 19:52:53,398 [Worker-31: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-04 19:52:53,398 [Worker-31: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-04 19:53:01,627 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:53:01,628 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-04 19:53:01,629 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:53:01,629 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 19:56:36,837 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:56:36,837 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\main\resources
+2020-07-04 19:56:36,838 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:56:36,838 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 19:56:36,984 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:56:36,984 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\main\resources
+2020-07-04 19:56:36,986 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:56:36,986 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 19:58:18,484 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:58:18,484 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 19:58:18,487 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:58:18,487 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 19:59:11,254 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:59:11,254 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 19:59:11,255 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:59:11,255 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 19:59:39,735 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:59:39,736 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 19:59:39,737 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:59:39,737 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 19:59:55,383 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:59:55,384 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 19:59:55,384 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 19:59:55,385 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 20:00:47,529 [Worker-60: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-04 20:00:47,529 [Worker-60: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-04 20:00:47,529 [Worker-60: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-04 20:00:51,197 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 20:00:51,198 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 20:00:51,200 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 20:00:51,201 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 20:01:05,045 [Worker-60: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-04 20:01:05,045 [Worker-60: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-04 20:01:05,045 [Worker-60: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-04 20:01:11,051 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 20:01:11,053 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 20:01:11,054 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 20:01:11,054 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 20:03:32,014 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 20:03:32,015 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 20:03:32,016 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 20:03:32,016 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 20:03:36,947 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 20:03:36,947 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-04 20:03:36,952 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 20:03:36,952 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 20:04:28,357 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 20:04:28,358 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 20:04:28,358 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 20:04:28,358 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 20:07:06,604 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 20:07:06,604 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 20:07:06,605 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 20:07:06,605 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 20:08:27,644 [main] ERROR o.e.m.j.u.i.DownloadSourcesActionDelegate - Could not schedule source download
+org.eclipse.jdt.core.JavaModelException: target/classes/org/geotools/tutorial/quickstart [in demo] is not on its project's build path
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583) ~[na:na]
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:256) ~[na:na]
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596) ~[na:na]
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326) ~[na:na]
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312) ~[na:na]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:530) ~[na:na]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getSourceAttachmentPath(PackageFragmentRoot.java:655) ~[na:na]
+	at org.eclipse.m2e.jdt.ui.internal.DownloadSourcesActionDelegate.setActiveEditor(DownloadSourcesActionDelegate.java:53) ~[na:na]
+	at org.eclipse.ui.internal.EditorPluginAction.editorChanged(EditorPluginAction.java:69) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.internal.EditorActionBuilder$EditorContribution.editorChanged(EditorActionBuilder.java:77) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.internal.EditorActionBuilder$ExternalContributor.setActiveEditor(EditorActionBuilder.java:123) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.internal.EditorActionBars.partChanged(EditorActionBars.java:338) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.updateActivations(WorkbenchPage.java:326) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.access$2(WorkbenchPage.java:307) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage$E4PartListener.partActivated(WorkbenchPage.java:215) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl$3.run(PartServiceImpl.java:253) [org.eclipse.e4.ui.workbench_1.11.200.v20200205-1503.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.11.0.v20200206-0817.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.firePartActivated(PartServiceImpl.java:250) [org.eclipse.e4.ui.workbench_1.11.200.v20200205-1503.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:774) [org.eclipse.e4.ui.workbench_1.11.200.v20200205-1503.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:683) [org.eclipse.e4.ui.workbench_1.11.200.v20200205-1503.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:678) [org.eclipse.e4.ui.workbench_1.11.200.v20200205-1503.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3203) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.lambda$9(WorkbenchPage.java:3100) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:72) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3098) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3068) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3059) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:569) ~[na:na]
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:524) ~[na:na]
+	at org.eclipse.ui.actions.OpenFileAction.openFile(OpenFileAction.java:103) ~[na:na]
+	at org.eclipse.ui.actions.OpenSystemEditorAction.run(OpenSystemEditorAction.java:96) ~[na:na]
+	at org.eclipse.ui.views.navigator.OpenActionGroup.runDefaultAction(OpenActionGroup.java:134) ~[na:na]
+	at org.eclipse.ui.views.navigator.MainActionGroup.runDefaultAction(MainActionGroup.java:307) ~[na:na]
+	at org.eclipse.ui.views.navigator.ResourceNavigator.handleOpen(ResourceNavigator.java:770) ~[na:na]
+	at org.eclipse.ui.views.navigator.ResourceNavigator$2.open(ResourceNavigator.java:487) ~[na:na]
+	at org.eclipse.ui.OpenAndLinkWithEditorHelper$InternalListener.open(OpenAndLinkWithEditorHelper.java:48) ~[org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.jface.viewers.StructuredViewer$2.run(StructuredViewer.java:802) ~[org.eclipse.jface_3.19.0.v20200218-1607.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.11.0.v20200206-0817.jar:na]
+	at org.eclipse.ui.internal.JFaceUtil.lambda$0(JFaceUtil.java:47) ~[org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174) ~[org.eclipse.jface_3.19.0.v20200218-1607.jar:na]
+	at org.eclipse.jface.viewers.StructuredViewer.fireOpen(StructuredViewer.java:799) ~[org.eclipse.jface_3.19.0.v20200218-1607.jar:na]
+	at org.eclipse.jface.viewers.StructuredViewer.handleOpen(StructuredViewer.java:1115) ~[org.eclipse.jface_3.19.0.v20200218-1607.jar:na]
+	at org.eclipse.jface.util.OpenStrategy.fireOpenEvent(OpenStrategy.java:275) ~[org.eclipse.jface_3.19.0.v20200218-1607.jar:na]
+	at org.eclipse.jface.util.OpenStrategy.access$2(OpenStrategy.java:270) ~[org.eclipse.jface_3.19.0.v20200218-1607.jar:na]
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:310) ~[org.eclipse.jface_3.19.0.v20200218-1607.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4105) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1037) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3922) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3524) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1160) ~[org.eclipse.e4.ui.workbench.swt_0.14.900.v20200213-1442.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338) ~[org.eclipse.core.databinding.observable_1.9.0.v20200205-2119.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1049) ~[org.eclipse.e4.ui.workbench.swt_0.14.900.v20200213-1442.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155) ~[org.eclipse.e4.ui.workbench_1.11.200.v20200205-1503.jar:na]
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:658) ~[org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338) ~[org.eclipse.core.databinding.observable_1.9.0.v20200205-2119.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557) ~[org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154) ~[org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150) ~[na:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203) ~[org.eclipse.equinox.app_1.4.400.v20191212-0743.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137) ~[org.eclipse.osgi_3.15.200.v20200214-1600.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107) ~[org.eclipse.osgi_3.15.200.v20200214-1600.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401) ~[org.eclipse.osgi_3.15.200.v20200214-1600.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255) ~[org.eclipse.osgi_3.15.200.v20200214-1600.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_251]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_251]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_251]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_251]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657) ~[org.eclipse.equinox.launcher_1.5.700.v20200207-2156.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594) ~[org.eclipse.equinox.launcher_1.5.700.v20200207-2156.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1447) ~[org.eclipse.equinox.launcher_1.5.700.v20200207-2156.jar:na]
+2020-07-04 20:09:22,895 [Worker-68: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-04 20:09:22,896 [Worker-68: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-04 20:09:22,896 [Worker-68: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-04 20:09:26,185 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 20:09:26,186 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-04 20:09:26,189 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 20:09:26,189 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 20:09:56,442 [Worker-72: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-04 20:09:56,442 [Worker-72: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-04 20:09:56,442 [Worker-72: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-04 20:10:01,564 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 20:10:01,564 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-04 20:10:01,565 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 20:10:01,565 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 21:18:06,511 [Worker-76: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-04 21:18:06,512 [Worker-76: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-04 21:18:06,512 [Worker-76: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-04 21:18:08,612 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 21:18:08,613 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-04 21:18:08,616 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 21:18:08,616 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 21:18:16,933 [Worker-79: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-04 21:18:16,933 [Worker-79: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-04 21:18:16,933 [Worker-79: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-04 21:18:21,816 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 21:18:21,817 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-04 21:18:21,819 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 21:18:21,819 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 21:56:01,874 [Worker-85: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.geotools:demo:0.0.1-SNAPSHOT @ C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\pom.xml.
+2020-07-04 21:56:03,455 [Worker-85: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/snapshot/org/geotools/gt-epsg-extension/24-SNAPSHOT/maven-metadata.xml
+2020-07-04 21:56:03,642 [Worker-85: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/snapshot/org/geotools/gt-epsg-extension/24-SNAPSHOT/maven-metadata.xml
+2020-07-04 21:56:03,826 [Worker-85: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/snapshot/org/geotools/gt-epsg-extension/24-SNAPSHOT/gt-epsg-extension-24-20200703.190425-89.pom
+2020-07-04 21:56:04,012 [Worker-85: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/snapshot/org/geotools/gt-epsg-extension/24-SNAPSHOT/gt-epsg-extension-24-20200703.190425-89.pom
+2020-07-04 21:56:04,421 [Worker-85: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/snapshot/org/geotools/gt-epsg-extension/24-SNAPSHOT/gt-epsg-extension-24-20200703.190425-89.jar
+2020-07-04 21:56:04,628 [Worker-85: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/snapshot/org/geotools/gt-epsg-extension/24-SNAPSHOT/gt-epsg-extension-24-20200703.190425-89.jar
+2020-07-04 21:56:05,128 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 21:56:05,129 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 21:56:05,130 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 21:56:05,131 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 21:56:07,074 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/snapshot/org/geotools/gt-epsg-extension/24-SNAPSHOT/gt-epsg-extension-24-20200703.190425-89-sources.jar
+2020-07-04 21:56:07,512 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/snapshot/org/geotools/gt-epsg-extension/24-SNAPSHOT/gt-epsg-extension-24-20200703.190425-89-sources.jar
+2020-07-04 21:56:07,695 [Worker-85: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.geotools:gt-epsg-extension:24-SNAPSHOT
+2020-07-04 21:56:07,952 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 21:56:07,952 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 21:56:07,953 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 21:56:07,953 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 21:56:15,594 [Worker-100: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-04 21:56:15,595 [Worker-100: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-04 21:56:15,595 [Worker-100: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-04 21:56:18,628 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 21:56:18,629 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-04 21:56:18,643 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 21:56:18,643 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 21:56:26,063 [Worker-90: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-04 21:56:26,063 [Worker-90: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-04 21:56:26,063 [Worker-90: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-04 21:56:30,928 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 21:56:30,929 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-04 21:56:30,929 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 21:56:30,930 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 22:13:42,574 [Worker-85: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.geotools:demo:0.0.1-SNAPSHOT @ C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\pom.xml.
+2020-07-04 22:13:43,517 [Worker-85: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/snapshot/org/geotools/gt-epsgh-hsql/24-SNAPSHOT/maven-metadata.xml
+2020-07-04 22:13:43,892 [Worker-85: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/snapshot/org/geotools/gt-epsgh-hsql/24-SNAPSHOT/gt-epsgh-hsql-24-SNAPSHOT.pom
+2020-07-04 22:13:43,899 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.geotools:gt-epsgh-hsql:jar:24-SNAPSHOT is missing, no dependency information available
+2020-07-04 22:13:44,129 [Worker-85: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/snapshot/org/geotools/gt-epsgh-hsql/24-SNAPSHOT/gt-epsgh-hsql-24-SNAPSHOT.jar
+2020-07-04 22:13:44,423 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 22:13:44,424 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 22:13:44,425 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 22:13:44,425 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 22:13:45,569 [Worker-85: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.geotools:gt-epsgh-hsql:jar:24-SNAPSHOT is missing, no dependency information available
+2020-07-04 22:13:46,314 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/snapshot/org/geotools/gt-epsgh-hsql/24-SNAPSHOT/gt-epsgh-hsql-24-SNAPSHOT-sources.jar
+2020-07-04 22:13:46,336 [Worker-85: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.geotools:gt-epsgh-hsql:24-SNAPSHOT
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.geotools:gt-epsgh-hsql:jar:sources:24-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373) ~[org.eclipse.m2e.core_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.15.0.20200226-1722.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.700.v20200106-1020.jar:na]
+2020-07-04 22:24:47,714 [Worker-110: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.geotools:demo:0.0.1-SNAPSHOT @ C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\pom.xml.
+2020-07-04 22:24:48,128 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 22:24:48,129 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 22:24:48,130 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 22:24:48,130 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 22:28:14,711 [Worker-115: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.geotools:demo:0.0.1-SNAPSHOT @ C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\pom.xml.
+2020-07-04 22:28:15,603 [Worker-115: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/snapshot/org/geotools/gt-epsg-hsql/24-SNAPSHOT/maven-metadata.xml
+2020-07-04 22:28:15,984 [Worker-115: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/snapshot/org/geotools/gt-epsg-hsql/24-SNAPSHOT/maven-metadata.xml
+2020-07-04 22:28:16,161 [Worker-115: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/snapshot/org/geotools/gt-epsg-hsql/24-SNAPSHOT/gt-epsg-hsql-24-20200703.190312-89.pom
+2020-07-04 22:28:16,345 [Worker-115: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/snapshot/org/geotools/gt-epsg-hsql/24-SNAPSHOT/gt-epsg-hsql-24-20200703.190312-89.pom
+2020-07-04 22:28:17,089 [Worker-115: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/org/hsqldb/hsqldb/2.4.1/hsqldb-2.4.1.pom
+2020-07-04 22:28:17,255 [Worker-115: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hsqldb/hsqldb/2.4.1/hsqldb-2.4.1.pom
+2020-07-04 22:28:17,319 [Worker-115: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hsqldb/hsqldb/2.4.1/hsqldb-2.4.1.pom
+2020-07-04 22:28:17,631 [Worker-115: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/snapshot/org/geotools/gt-epsg-hsql/24-SNAPSHOT/gt-epsg-hsql-24-20200703.190312-89.jar
+2020-07-04 22:28:19,194 [Worker-115: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/snapshot/org/geotools/gt-epsg-hsql/24-SNAPSHOT/gt-epsg-hsql-24-20200703.190312-89.jar
+2020-07-04 22:28:19,548 [Worker-115: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/org/hsqldb/hsqldb/2.4.1/hsqldb-2.4.1.jar
+2020-07-04 22:28:19,569 [Worker-115: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hsqldb/hsqldb/2.4.1/hsqldb-2.4.1.jar
+2020-07-04 22:28:19,791 [Worker-115: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hsqldb/hsqldb/2.4.1/hsqldb-2.4.1.jar
+2020-07-04 22:28:20,089 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 22:28:20,090 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 22:28:20,091 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 22:28:20,091 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 22:28:21,992 [Worker-112: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/snapshot/org/geotools/gt-epsg-hsql/24-SNAPSHOT/gt-epsg-hsql-24-20200703.190312-89-sources.jar
+2020-07-04 22:28:23,552 [Worker-112: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/snapshot/org/geotools/gt-epsg-hsql/24-SNAPSHOT/gt-epsg-hsql-24-20200703.190312-89-sources.jar
+2020-07-04 22:28:23,638 [Worker-112: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.geotools:gt-epsg-hsql:24-SNAPSHOT
+2020-07-04 22:28:24,353 [Worker-112: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/org/hsqldb/hsqldb/2.4.1/hsqldb-2.4.1-sources.jar
+2020-07-04 22:28:24,743 [Worker-112: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hsqldb/hsqldb/2.4.1/hsqldb-2.4.1-sources.jar
+2020-07-04 22:28:25,019 [Worker-112: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hsqldb/hsqldb/2.4.1/hsqldb-2.4.1-sources.jar
+2020-07-04 22:28:25,099 [Worker-112: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hsqldb:hsqldb:2.4.1
+2020-07-04 22:28:25,355 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 22:28:25,356 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-04 22:28:25,356 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 22:28:25,356 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 22:30:30,539 [Worker-110: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-04 22:30:30,539 [Worker-110: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-04 22:30:30,539 [Worker-110: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-04 22:30:33,584 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 22:30:33,585 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-04 22:30:33,593 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 22:30:33,594 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-04 22:30:38,627 [Worker-121: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-04 22:30:38,627 [Worker-121: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-04 22:30:38,627 [Worker-121: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-04 22:30:43,500 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 22:30:43,501 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-04 22:30:43,502 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-04 22:30:43,502 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-05 12:35:28,752 [main] ERROR o.e.m.j.u.i.DownloadSourcesActionDelegate - Could not schedule source download
+org.eclipse.jdt.core.JavaModelException: FlowMapforGeoServer/gt-filterfunction-odflowmap-9.5/org/geotools/filter/function [in demo] is not on its project's build path
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583) ~[na:na]
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:256) ~[na:na]
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596) ~[na:na]
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326) ~[na:na]
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312) ~[na:na]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:530) ~[na:na]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getSourceAttachmentPath(PackageFragmentRoot.java:655) ~[na:na]
+	at org.eclipse.m2e.jdt.ui.internal.DownloadSourcesActionDelegate.setActiveEditor(DownloadSourcesActionDelegate.java:53) ~[na:na]
+	at org.eclipse.ui.internal.EditorPluginAction.editorChanged(EditorPluginAction.java:69) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.internal.EditorActionBuilder$EditorContribution.editorChanged(EditorActionBuilder.java:77) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.internal.EditorActionBuilder$ExternalContributor.setActiveEditor(EditorActionBuilder.java:123) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.internal.EditorActionBars.partChanged(EditorActionBars.java:338) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.updateActivations(WorkbenchPage.java:326) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.access$2(WorkbenchPage.java:307) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage$E4PartListener.partActivated(WorkbenchPage.java:215) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl$3.run(PartServiceImpl.java:253) [org.eclipse.e4.ui.workbench_1.11.200.v20200205-1503.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.11.0.v20200206-0817.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.firePartActivated(PartServiceImpl.java:250) [org.eclipse.e4.ui.workbench_1.11.200.v20200205-1503.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:774) [org.eclipse.e4.ui.workbench_1.11.200.v20200205-1503.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:683) [org.eclipse.e4.ui.workbench_1.11.200.v20200205-1503.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:678) [org.eclipse.e4.ui.workbench_1.11.200.v20200205-1503.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3203) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.lambda$9(WorkbenchPage.java:3100) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:72) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3098) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3068) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3059) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:569) ~[na:na]
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:524) ~[na:na]
+	at org.eclipse.ui.actions.OpenFileAction.openFile(OpenFileAction.java:103) ~[na:na]
+	at org.eclipse.ui.actions.OpenSystemEditorAction.run(OpenSystemEditorAction.java:96) ~[na:na]
+	at org.eclipse.ui.views.navigator.OpenActionGroup.runDefaultAction(OpenActionGroup.java:134) ~[na:na]
+	at org.eclipse.ui.views.navigator.MainActionGroup.runDefaultAction(MainActionGroup.java:307) ~[na:na]
+	at org.eclipse.ui.views.navigator.ResourceNavigator.handleOpen(ResourceNavigator.java:770) ~[na:na]
+	at org.eclipse.ui.views.navigator.ResourceNavigator$2.open(ResourceNavigator.java:487) ~[na:na]
+	at org.eclipse.ui.OpenAndLinkWithEditorHelper$InternalListener.open(OpenAndLinkWithEditorHelper.java:48) ~[org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.jface.viewers.StructuredViewer$2.run(StructuredViewer.java:802) ~[org.eclipse.jface_3.19.0.v20200218-1607.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.11.0.v20200206-0817.jar:na]
+	at org.eclipse.ui.internal.JFaceUtil.lambda$0(JFaceUtil.java:47) ~[org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174) ~[org.eclipse.jface_3.19.0.v20200218-1607.jar:na]
+	at org.eclipse.jface.viewers.StructuredViewer.fireOpen(StructuredViewer.java:799) ~[org.eclipse.jface_3.19.0.v20200218-1607.jar:na]
+	at org.eclipse.jface.viewers.StructuredViewer.handleOpen(StructuredViewer.java:1115) ~[org.eclipse.jface_3.19.0.v20200218-1607.jar:na]
+	at org.eclipse.jface.util.OpenStrategy.fireOpenEvent(OpenStrategy.java:275) ~[org.eclipse.jface_3.19.0.v20200218-1607.jar:na]
+	at org.eclipse.jface.util.OpenStrategy.access$2(OpenStrategy.java:270) ~[org.eclipse.jface_3.19.0.v20200218-1607.jar:na]
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:310) ~[org.eclipse.jface_3.19.0.v20200218-1607.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4105) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1037) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3922) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3524) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1160) ~[org.eclipse.e4.ui.workbench.swt_0.14.900.v20200213-1442.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338) ~[org.eclipse.core.databinding.observable_1.9.0.v20200205-2119.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1049) ~[org.eclipse.e4.ui.workbench.swt_0.14.900.v20200213-1442.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155) ~[org.eclipse.e4.ui.workbench_1.11.200.v20200205-1503.jar:na]
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:658) ~[org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338) ~[org.eclipse.core.databinding.observable_1.9.0.v20200205-2119.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557) ~[org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154) ~[org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150) ~[na:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203) ~[org.eclipse.equinox.app_1.4.400.v20191212-0743.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137) ~[org.eclipse.osgi_3.15.200.v20200214-1600.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107) ~[org.eclipse.osgi_3.15.200.v20200214-1600.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401) ~[org.eclipse.osgi_3.15.200.v20200214-1600.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255) ~[org.eclipse.osgi_3.15.200.v20200214-1600.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_251]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_251]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_251]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_251]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657) ~[org.eclipse.equinox.launcher_1.5.700.v20200207-2156.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594) ~[org.eclipse.equinox.launcher_1.5.700.v20200207-2156.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1447) ~[org.eclipse.equinox.launcher_1.5.700.v20200207-2156.jar:na]
+2020-07-05 12:35:44,839 [main] ERROR o.e.m.j.u.i.DownloadSourcesActionDelegate - Could not schedule source download
+org.eclipse.jdt.core.JavaModelException: FlowMapforGeoServer/gt-filterfunction-odflowmap-9.5/org/geotools/filter/function [in demo] is not on its project's build path
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583) ~[na:na]
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:256) ~[na:na]
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596) ~[na:na]
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326) ~[na:na]
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312) ~[na:na]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:530) ~[na:na]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getSourceAttachmentPath(PackageFragmentRoot.java:655) ~[na:na]
+	at org.eclipse.m2e.jdt.ui.internal.DownloadSourcesActionDelegate.setActiveEditor(DownloadSourcesActionDelegate.java:53) ~[na:na]
+	at org.eclipse.ui.internal.EditorPluginAction.editorChanged(EditorPluginAction.java:69) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.internal.EditorActionBuilder$EditorContribution.editorChanged(EditorActionBuilder.java:77) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.internal.EditorActionBuilder$ExternalContributor.setActiveEditor(EditorActionBuilder.java:123) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.internal.EditorActionBars.partChanged(EditorActionBars.java:338) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.updateActivations(WorkbenchPage.java:326) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage.access$2(WorkbenchPage.java:307) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.ui.internal.WorkbenchPage$E4PartListener.partActivated(WorkbenchPage.java:215) [org.eclipse.ui.workbench_3.118.0.v20200222-0719.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl$3.run(PartServiceImpl.java:253) [org.eclipse.e4.ui.workbench_1.11.200.v20200205-1503.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.11.0.v20200206-0817.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.firePartActivated(PartServiceImpl.java:250) [org.eclipse.e4.ui.workbench_1.11.200.v20200205-1503.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:774) [org.eclipse.e4.ui.workbench_1.11.200.v20200205-1503.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.activate(PartServiceImpl.java:683) [org.eclipse.e4.ui.workbench_1.11.200.v20200205-1503.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.AbstractPartRenderer.activate(AbstractPartRenderer.java:97) [org.eclipse.e4.ui.workbench.swt_0.14.900.v20200213-1442.jar:na]
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.lambda$0(ContributedPartRenderer.java:63) [org.eclipse.e4.ui.workbench.renderers.swt_0.14.1100.v20200217-1217.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4105) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1037) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1046) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Shell.setActiveControl(Shell.java:1469) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Shell.setActiveControl(Shell.java:1432) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Control.sendFocusEvent(Control.java:2942) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Widget.wmSetFocus(Widget.java:2216) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Control.WM_SETFOCUS(Control.java:5393) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4790) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4749) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.internal.win32.OS.SetFocus(Native Method) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Control.forceFocus(Control.java:1100) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Control.setFocus(Control.java:3427) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Composite.setFocus(Composite.java:1074) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Composite.setFocus(Composite.java:1072) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.jdt.internal.ui.javaeditor.ClassFileEditor.setFocus(ClassFileEditor.java:986) ~[na:na]
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.delegateSetFocus(CompatibilityPart.java:222) ~[na:na]
+	at sun.reflect.GeneratedMethodAccessor55.invoke(Unknown Source) ~[na:na]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_251]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_251]
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58) ~[org.eclipse.e4.core.di_1.7.500.v20190916-2125.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:318) ~[org.eclipse.e4.core.di_1.7.500.v20190916-2125.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:324) ~[org.eclipse.e4.core.di_1.7.500.v20190916-2125.jar:na]
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:246) ~[org.eclipse.e4.core.di_1.7.500.v20190916-2125.jar:na]
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:147) ~[org.eclipse.e4.core.contexts_1.8.400.v20191217-1710.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.focusGui(PartRenderingEngine.java:795) ~[org.eclipse.e4.ui.workbench.swt_0.14.900.v20200213-1442.jar:na]
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer$1.setFocus(ContributedPartRenderer.java:106) ~[org.eclipse.e4.ui.workbench.renderers.swt_0.14.1100.v20200217-1217.jar:na]
+	at org.eclipse.swt.custom.CTabItem.setFocus(CTabItem.java:379) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.custom.CTabFolder.setFocus(CTabFolder.java:2663) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Control.fixFocus(Control.java:1055) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Control.setVisible(Control.java:3938) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:3216) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:3224) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1876) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.custom.CTabFolder.lambda$0(CTabFolder.java:330) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4105) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1037) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3922) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3524) ~[org.eclipse.swt.win32.win32.x86_64_3.114.0.v20200304-0601.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1160) ~[org.eclipse.e4.ui.workbench.swt_0.14.900.v20200213-1442.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338) ~[na:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1049) ~[org.eclipse.e4.ui.workbench.swt_0.14.900.v20200213-1442.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155) ~[org.eclipse.e4.ui.workbench_1.11.200.v20200205-1503.jar:na]
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:658) ~[na:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338) ~[na:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557) ~[na:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154) ~[na:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150) ~[na:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203) ~[org.eclipse.equinox.app_1.4.400.v20191212-0743.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137) ~[org.eclipse.osgi_3.15.200.v20200214-1600.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107) ~[org.eclipse.osgi_3.15.200.v20200214-1600.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401) ~[org.eclipse.osgi_3.15.200.v20200214-1600.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255) ~[org.eclipse.osgi_3.15.200.v20200214-1600.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_251]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_251]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_251]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_251]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657) ~[org.eclipse.equinox.launcher_1.5.700.v20200207-2156.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594) ~[org.eclipse.equinox.launcher_1.5.700.v20200207-2156.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1447) ~[org.eclipse.equinox.launcher_1.5.700.v20200207-2156.jar:na]
+2020-07-05 14:34:56,520 [Worker-56: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.geotools:gt-api:jar:9.5 is missing, no dependency information available
+2020-07-05 14:34:56,536 [Worker-56: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.geotools:gt-main:jar:9.5 is missing, no dependency information available
+2020-07-05 14:34:56,595 [Worker-56: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.geotools:gt-api:jar:9.5 is missing, no dependency information available
+2020-07-05 14:34:56,602 [Worker-56: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.geotools:gt-main:jar:9.5 is missing, no dependency information available
+2020-07-05 18:32:10,413 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 18:32:10,417 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-05 18:32:10,424 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 18:32:10,424 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-05 18:32:11,964 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 18:32:11,966 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 18:32:11,967 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 18:32:11,968 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-05 18:32:20,853 [Worker-140: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-07-05 18:32:25,617 [Worker-140: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-05 18:32:25,618 [Worker-140: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-05 18:32:25,619 [Worker-140: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-05 18:32:34,972 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 18:32:34,976 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-05 18:32:34,991 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 18:32:34,992 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-05 18:32:44,744 [Worker-150: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-05 18:32:44,744 [Worker-150: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-05 18:32:44,744 [Worker-150: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-05 18:33:06,195 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 18:33:06,197 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-05 18:33:06,198 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 18:33:06,199 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-05 18:36:38,546 [Worker-151: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 18:36:38,547 [Worker-151: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-05 18:36:38,547 [Worker-151: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 18:36:38,548 [Worker-151: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-05 18:37:02,691 [Worker-150: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-05 18:37:02,691 [Worker-150: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-05 18:37:02,691 [Worker-150: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-05 18:37:06,511 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 18:37:06,512 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-05 18:37:06,521 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 18:37:06,521 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-05 18:37:25,387 [Worker-152: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-05 18:37:25,387 [Worker-152: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-05 18:37:25,387 [Worker-152: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-05 18:37:32,294 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 18:37:32,296 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-05 18:37:32,297 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-05 18:37:32,298 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-16 10:56:12,430 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 10:56:12,438 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-16 10:56:12,444 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 10:56:12,444 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-16 10:56:14,078 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 10:56:14,088 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-16 10:56:14,090 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 10:56:14,090 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-16 10:56:22,832 [Worker-25: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-07-16 17:41:39,266 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 17:41:39,338 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-16 17:41:39,339 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 17:41:39,339 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-16 17:44:29,041 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 17:44:29,041 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-16 17:44:29,042 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 17:44:29,042 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-16 17:47:02,153 [Worker-151: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-16 17:47:02,154 [Worker-151: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-16 17:47:05,327 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 17:47:05,332 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-16 17:47:05,338 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 17:47:05,339 [Worker-155: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-16 17:47:15,938 [Worker-151: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-16 17:47:15,939 [Worker-151: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-16 17:47:15,939 [Worker-151: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-16 17:48:06,391 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 17:48:06,392 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-16 17:48:06,393 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 17:48:06,393 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-16 17:48:53,159 [Worker-156: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 17:48:53,160 [Worker-156: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-16 17:48:53,161 [Worker-156: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-16 17:48:53,161 [Worker-156: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-18 16:20:43,729 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-07-18 16:20:50,107 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 16:20:50,113 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-18 16:20:50,120 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 16:20:50,121 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-18 16:26:11,555 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 16:26:11,558 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-18 16:26:11,559 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 16:26:11,559 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-18 17:02:22,628 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 17:02:22,630 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-18 17:02:22,631 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 17:02:22,631 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-18 17:03:21,960 [Worker-40: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-18 17:03:21,961 [Worker-40: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-18 17:03:21,961 [Worker-40: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-18 17:03:24,444 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 17:03:24,449 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-18 17:03:24,458 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 17:03:24,458 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-18 17:03:35,435 [Worker-38: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-18 17:03:35,435 [Worker-38: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-18 17:03:35,435 [Worker-38: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-18 17:04:05,883 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 17:04:05,884 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-18 17:04:05,885 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 17:04:05,886 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-18 17:04:15,280 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/org/locationtech/jts/jts-core/1.17.0/jts-core-1.17.0-sources.jar
+2020-07-18 17:04:15,386 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/locationtech/jts/jts-core/1.17.0/jts-core-1.17.0-sources.jar
+2020-07-18 17:04:15,588 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/locationtech/jts/jts-core/1.17.0/jts-core-1.17.0-sources.jar
+2020-07-18 17:04:15,713 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.locationtech.jts:jts-core:1.17.0
+2020-07-18 17:04:16,556 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/org/jaitools/jt-zonalstats/1.6.0/jt-zonalstats-1.6.0-sources.jar
+2020-07-18 17:04:16,637 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jaitools/jt-zonalstats/1.6.0/jt-zonalstats-1.6.0-sources.jar
+2020-07-18 17:04:16,787 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jaitools/jt-zonalstats/1.6.0/jt-zonalstats-1.6.0-sources.jar
+2020-07-18 17:04:16,926 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jaitools:jt-zonalstats:1.6.0
+2020-07-18 17:04:17,769 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/org/jaitools/jt-utils/1.6.0/jt-utils-1.6.0-sources.jar
+2020-07-18 17:04:17,951 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jaitools/jt-utils/1.6.0/jt-utils-1.6.0-sources.jar
+2020-07-18 17:04:18,003 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jaitools/jt-utils/1.6.0/jt-utils-1.6.0-sources.jar
+2020-07-18 17:04:18,095 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jaitools:jt-utils:1.6.0
+2020-07-18 17:04:18,855 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/affine/jt-affine/1.1.16/jt-affine-1.1.16-sources.jar
+2020-07-18 17:04:19,402 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/affine/jt-affine/1.1.16/jt-affine-1.1.16-sources.jar
+2020-07-18 17:04:19,614 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.affine:jt-affine:1.1.16
+2020-07-18 17:04:20,574 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/algebra/jt-algebra/1.1.16/jt-algebra-1.1.16-sources.jar
+2020-07-18 17:04:20,805 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/algebra/jt-algebra/1.1.16/jt-algebra-1.1.16-sources.jar
+2020-07-18 17:04:20,957 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.algebra:jt-algebra:1.1.16
+2020-07-18 17:04:21,938 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/bandmerge/jt-bandmerge/1.1.16/jt-bandmerge-1.1.16-sources.jar
+2020-07-18 17:04:22,207 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/bandmerge/jt-bandmerge/1.1.16/jt-bandmerge-1.1.16-sources.jar
+2020-07-18 17:04:22,381 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.bandmerge:jt-bandmerge:1.1.16
+2020-07-18 17:04:23,163 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/bandselect/jt-bandselect/1.1.16/jt-bandselect-1.1.16-sources.jar
+2020-07-18 17:04:23,497 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/bandselect/jt-bandselect/1.1.16/jt-bandselect-1.1.16-sources.jar
+2020-07-18 17:04:23,582 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.bandselect:jt-bandselect:1.1.16
+2020-07-18 17:04:24,464 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/bandcombine/jt-bandcombine/1.1.16/jt-bandcombine-1.1.16-sources.jar
+2020-07-18 17:04:24,721 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/bandcombine/jt-bandcombine/1.1.16/jt-bandcombine-1.1.16-sources.jar
+2020-07-18 17:04:24,829 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.bandcombine:jt-bandcombine:1.1.16
+2020-07-18 17:04:25,710 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/border/jt-border/1.1.16/jt-border-1.1.16-sources.jar
+2020-07-18 17:04:25,953 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/border/jt-border/1.1.16/jt-border-1.1.16-sources.jar
+2020-07-18 17:04:26,068 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.border:jt-border:1.1.16
+2020-07-18 17:04:26,942 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/buffer/jt-buffer/1.1.16/jt-buffer-1.1.16-sources.jar
+2020-07-18 17:04:27,195 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/buffer/jt-buffer/1.1.16/jt-buffer-1.1.16-sources.jar
+2020-07-18 17:04:27,306 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.buffer:jt-buffer:1.1.16
+2020-07-18 17:04:28,102 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/crop/jt-crop/1.1.16/jt-crop-1.1.16-sources.jar
+2020-07-18 17:04:28,441 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/crop/jt-crop/1.1.16/jt-crop-1.1.16-sources.jar
+2020-07-18 17:04:28,558 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.crop:jt-crop:1.1.16
+2020-07-18 17:04:29,493 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/iterators/jt-iterators/1.1.16/jt-iterators-1.1.16-sources.jar
+2020-07-18 17:04:29,795 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/iterators/jt-iterators/1.1.16/jt-iterators-1.1.16-sources.jar
+2020-07-18 17:04:29,902 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.iterators:jt-iterators:1.1.16
+2020-07-18 17:04:30,836 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/lookup/jt-lookup/1.1.16/jt-lookup-1.1.16-sources.jar
+2020-07-18 17:04:31,057 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/lookup/jt-lookup/1.1.16/jt-lookup-1.1.16-sources.jar
+2020-07-18 17:04:31,175 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.lookup:jt-lookup:1.1.16
+2020-07-18 17:04:32,069 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/mosaic/jt-mosaic/1.1.16/jt-mosaic-1.1.16-sources.jar
+2020-07-18 17:04:32,232 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 17:04:32,232 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-18 17:04:32,233 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 17:04:32,233 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-18 17:04:32,304 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/mosaic/jt-mosaic/1.1.16/jt-mosaic-1.1.16-sources.jar
+2020-07-18 17:04:32,412 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.mosaic:jt-mosaic:1.1.16
+2020-07-18 17:04:33,149 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/nullop/jt-nullop/1.1.16/jt-nullop-1.1.16-sources.jar
+2020-07-18 17:04:33,513 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/nullop/jt-nullop/1.1.16/jt-nullop-1.1.16-sources.jar
+2020-07-18 17:04:33,723 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.nullop:jt-nullop:1.1.16
+2020-07-18 17:04:34,600 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/rescale/jt-rescale/1.1.16/jt-rescale-1.1.16-sources.jar
+2020-07-18 17:04:34,847 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/rescale/jt-rescale/1.1.16/jt-rescale-1.1.16-sources.jar
+2020-07-18 17:04:34,971 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.rescale:jt-rescale:1.1.16
+2020-07-18 17:04:35,710 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/scale/jt-scale/1.1.16/jt-scale-1.1.16-sources.jar
+2020-07-18 17:04:36,262 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/scale/jt-scale/1.1.16/jt-scale-1.1.16-sources.jar
+2020-07-18 17:04:36,384 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.scale:jt-scale:1.1.16
+2020-07-18 17:04:37,100 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/scale2/jt-scale2/1.1.16/jt-scale2-1.1.16-sources.jar
+2020-07-18 17:04:37,667 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/scale2/jt-scale2/1.1.16/jt-scale2-1.1.16-sources.jar
+2020-07-18 17:04:37,805 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.scale2:jt-scale2:1.1.16
+2020-07-18 17:04:38,765 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/stats/jt-stats/1.1.16/jt-stats-1.1.16-sources.jar
+2020-07-18 17:04:39,088 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/stats/jt-stats/1.1.16/jt-stats-1.1.16-sources.jar
+2020-07-18 17:04:39,194 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.stats:jt-stats:1.1.16
+2020-07-18 17:04:39,934 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/translate/jt-translate/1.1.16/jt-translate-1.1.16-sources.jar
+2020-07-18 17:04:40,308 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/translate/jt-translate/1.1.16/jt-translate-1.1.16-sources.jar
+2020-07-18 17:04:40,458 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.translate:jt-translate:1.1.16
+2020-07-18 17:04:41,230 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/utilities/jt-utilities/1.1.16/jt-utilities-1.1.16-sources.jar
+2020-07-18 17:04:41,949 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/utilities/jt-utilities/1.1.16/jt-utilities-1.1.16-sources.jar
+2020-07-18 17:04:42,085 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.utilities:jt-utilities:1.1.16
+2020-07-18 17:04:42,829 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/warp/jt-warp/1.1.16/jt-warp-1.1.16-sources.jar
+2020-07-18 17:04:43,429 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/warp/jt-warp/1.1.16/jt-warp-1.1.16-sources.jar
+2020-07-18 17:04:43,560 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.warp:jt-warp:1.1.16
+2020-07-18 17:04:44,525 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/zonal/jt-zonal/1.1.16/jt-zonal-1.1.16-sources.jar
+2020-07-18 17:04:44,798 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/zonal/jt-zonal/1.1.16/jt-zonal-1.1.16-sources.jar
+2020-07-18 17:04:44,899 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.zonal:jt-zonal:1.1.16
+2020-07-18 17:04:45,622 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/binarize/jt-binarize/1.1.16/jt-binarize-1.1.16-sources.jar
+2020-07-18 17:04:46,013 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/binarize/jt-binarize/1.1.16/jt-binarize-1.1.16-sources.jar
+2020-07-18 17:04:46,168 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.binarize:jt-binarize:1.1.16
+2020-07-18 17:04:46,927 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/format/jt-format/1.1.16/jt-format-1.1.16-sources.jar
+2020-07-18 17:04:47,270 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/format/jt-format/1.1.16/jt-format-1.1.16-sources.jar
+2020-07-18 17:04:47,369 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.format:jt-format:1.1.16
+2020-07-18 17:04:48,297 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/colorconvert/jt-colorconvert/1.1.16/jt-colorconvert-1.1.16-sources.jar
+2020-07-18 17:04:48,611 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/colorconvert/jt-colorconvert/1.1.16/jt-colorconvert-1.1.16-sources.jar
+2020-07-18 17:04:48,725 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.colorconvert:jt-colorconvert:1.1.16
+2020-07-18 17:04:49,642 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/errordiffusion/jt-errordiffusion/1.1.16/jt-errordiffusion-1.1.16-sources.jar
+2020-07-18 17:04:49,930 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/errordiffusion/jt-errordiffusion/1.1.16/jt-errordiffusion-1.1.16-sources.jar
+2020-07-18 17:04:50,064 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.errordiffusion:jt-errordiffusion:1.1.16
+2020-07-18 17:04:50,958 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/orderdither/jt-orderdither/1.1.16/jt-orderdither-1.1.16-sources.jar
+2020-07-18 17:04:51,237 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/orderdither/jt-orderdither/1.1.16/jt-orderdither-1.1.16-sources.jar
+2020-07-18 17:04:51,372 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.orderdither:jt-orderdither:1.1.16
+2020-07-18 17:04:52,273 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/colorindexer/jt-colorindexer/1.1.16/jt-colorindexer-1.1.16-sources.jar
+2020-07-18 17:04:52,527 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/colorindexer/jt-colorindexer/1.1.16/jt-colorindexer-1.1.16-sources.jar
+2020-07-18 17:04:52,637 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.colorindexer:jt-colorindexer:1.1.16
+2020-07-18 17:04:53,517 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/imagefunction/jt-imagefunction/1.1.16/jt-imagefunction-1.1.16-sources.jar
+2020-07-18 17:04:53,775 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/imagefunction/jt-imagefunction/1.1.16/jt-imagefunction-1.1.16-sources.jar
+2020-07-18 17:04:53,880 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.imagefunction:jt-imagefunction:1.1.16
+2020-07-18 17:04:54,626 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/piecewise/jt-piecewise/1.1.16/jt-piecewise-1.1.16-sources.jar
+2020-07-18 17:04:55,219 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/piecewise/jt-piecewise/1.1.16/jt-piecewise-1.1.16-sources.jar
+2020-07-18 17:04:55,345 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.piecewise:jt-piecewise:1.1.16
+2020-07-18 17:04:56,241 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/classifier/jt-classifier/1.1.16/jt-classifier-1.1.16-sources.jar
+2020-07-18 17:04:56,517 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/classifier/jt-classifier/1.1.16/jt-classifier-1.1.16-sources.jar
+2020-07-18 17:04:56,616 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.classifier:jt-classifier:1.1.16
+2020-07-18 17:04:57,541 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/rlookup/jt-rlookup/1.1.16/jt-rlookup-1.1.16-sources.jar
+2020-07-18 17:04:57,839 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/rlookup/jt-rlookup/1.1.16/jt-rlookup-1.1.16-sources.jar
+2020-07-18 17:04:58,033 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.rlookup:jt-rlookup:1.1.16
+2020-07-18 17:04:58,932 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/vectorbin/jt-vectorbin/1.1.16/jt-vectorbin-1.1.16-sources.jar
+2020-07-18 17:04:59,202 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/vectorbin/jt-vectorbin/1.1.16/jt-vectorbin-1.1.16-sources.jar
+2020-07-18 17:04:59,326 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.vectorbin:jt-vectorbin:1.1.16
+2020-07-18 17:05:00,232 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/shadedrelief/jt-shadedrelief/1.1.16/jt-shadedrelief-1.1.16-sources.jar
+2020-07-18 17:05:00,459 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.osgeo.org/repository/release/it/geosolutions/jaiext/shadedrelief/jt-shadedrelief/1.1.16/jt-shadedrelief-1.1.16-sources.jar
+2020-07-18 17:05:00,570 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for it.geosolutions.jaiext.shadedrelief:jt-shadedrelief:1.1.16
+2020-07-18 17:05:01,043 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 17:05:01,043 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-18 17:05:01,044 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 17:05:01,044 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-18 17:06:06,798 [Worker-41: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 17:06:06,799 [Worker-41: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-18 17:06:06,800 [Worker-41: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 17:06:06,800 [Worker-41: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-18 17:06:31,458 [Worker-41: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-18 17:06:31,458 [Worker-41: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-18 17:06:31,458 [Worker-41: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-18 17:06:34,677 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 17:06:34,678 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-18 17:06:34,684 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 17:06:34,685 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-18 17:06:46,585 [Worker-39: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-18 17:06:46,585 [Worker-39: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-18 17:06:46,585 [Worker-39: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-18 17:06:51,935 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 17:06:51,936 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-18 17:06:51,938 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 17:06:51,938 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-18 20:20:20,759 [Worker-99: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.geotools:demo:0.0.1-SNAPSHOT @ C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\pom.xml.
+2020-07-18 20:20:21,734 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 20:20:21,735 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-18 20:20:21,737 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 20:20:21,737 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-18 21:39:27,957 [Worker-121: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.geotools:demo:0.0.1-SNAPSHOT @ C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\pom.xml.
+2020-07-18 21:39:28,482 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:39:28,484 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-18 21:39:28,485 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:39:28,486 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-18 21:40:06,207 [Worker-125: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-18 21:40:06,207 [Worker-125: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-18 21:40:06,207 [Worker-125: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-18 21:40:09,795 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:40:09,796 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-18 21:40:09,807 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:40:09,808 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-18 21:40:19,880 [Worker-127: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-18 21:40:19,880 [Worker-127: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-18 21:40:19,880 [Worker-127: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-18 21:40:26,261 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:40:26,264 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-18 21:40:26,268 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-18 21:40:26,269 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 10:08:18,922 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-19 10:08:24,756 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 10:08:24,774 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 10:08:24,791 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 10:08:24,792 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 11:12:13,558 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 11:12:13,561 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-19 11:12:13,562 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 11:12:13,563 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 11:12:25,018 [Worker-49: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-19 11:12:25,019 [Worker-49: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-19 11:12:25,019 [Worker-49: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-19 11:12:27,493 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 11:12:27,497 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 11:12:27,506 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 11:12:27,506 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 11:12:35,337 [Worker-37: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-19 11:12:35,337 [Worker-37: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-19 11:12:35,337 [Worker-37: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-19 11:12:54,148 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 11:12:54,151 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 11:12:54,155 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 11:12:54,156 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 11:13:43,093 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 11:13:43,094 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-19 11:13:43,097 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 11:13:43,098 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 11:14:25,771 [Worker-51: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 11:14:25,771 [Worker-51: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-19 11:14:25,773 [Worker-51: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 11:14:25,773 [Worker-51: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 11:15:16,449 [Worker-50: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 11:15:16,449 [Worker-50: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-19 11:15:16,450 [Worker-50: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 11:15:16,450 [Worker-50: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 11:16:34,608 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 11:16:34,608 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-19 11:16:34,609 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 11:16:34,609 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 17:59:50,654 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 17:59:50,655 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-19 17:59:50,656 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 17:59:50,657 [Worker-166: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 20:29:18,678 [Worker-196: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-19 20:29:18,679 [Worker-196: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-19 20:29:18,679 [Worker-196: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-19 20:29:22,011 [Worker-197: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 20:29:22,012 [Worker-197: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 20:29:22,016 [Worker-197: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 20:29:22,016 [Worker-197: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 20:29:35,854 [Worker-195: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-19 20:29:35,854 [Worker-195: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-19 20:29:35,854 [Worker-195: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-19 20:29:46,825 [Worker-192: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 20:29:46,826 [Worker-192: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 20:29:46,828 [Worker-192: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 20:29:46,828 [Worker-192: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:10:59,199 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:10:59,200 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-19 21:10:59,201 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:10:59,201 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:11:20,908 [Worker-207: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-19 21:11:20,908 [Worker-207: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-19 21:11:20,908 [Worker-207: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-19 21:11:23,875 [Worker-206: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:11:23,877 [Worker-206: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 21:11:23,887 [Worker-206: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:11:23,888 [Worker-206: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:11:29,588 [Worker-214: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-19 21:11:29,588 [Worker-214: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-19 21:11:29,588 [Worker-214: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-19 21:11:34,685 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:11:34,686 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 21:11:34,687 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:11:34,687 [Worker-211: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:19:39,968 [Worker-217: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-19 21:19:39,968 [Worker-217: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-19 21:19:39,968 [Worker-217: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-19 21:19:42,959 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:19:42,960 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 21:19:42,967 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:19:42,967 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:19:46,905 [Worker-217: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-19 21:19:46,905 [Worker-217: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-19 21:19:46,905 [Worker-217: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-19 21:19:52,855 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:19:52,856 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 21:19:52,858 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:19:52,858 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:20:37,867 [Worker-216: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:20:37,868 [Worker-216: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-19 21:20:37,869 [Worker-216: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:20:37,869 [Worker-216: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:20:51,079 [Worker-217: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-19 21:20:51,079 [Worker-217: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-19 21:20:51,079 [Worker-217: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-19 21:20:54,113 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:20:54,114 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 21:20:54,120 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:20:54,120 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:21:02,574 [Worker-207: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-19 21:21:02,574 [Worker-207: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-19 21:21:02,574 [Worker-207: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-19 21:21:07,606 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:21:07,607 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 21:21:07,608 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:21:07,609 [Worker-215: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:29:51,030 [Worker-216: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-19 21:29:51,030 [Worker-216: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-19 21:29:51,030 [Worker-216: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-19 21:29:53,066 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:29:53,066 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 21:29:53,070 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:29:53,070 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:29:58,530 [Worker-222: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-19 21:29:58,530 [Worker-222: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-19 21:29:58,530 [Worker-222: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-19 21:30:04,905 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:30:04,906 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 21:30:04,906 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:30:04,906 [Worker-221: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:30:14,550 [Worker-216: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:30:14,550 [Worker-216: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-19 21:30:14,551 [Worker-216: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:30:14,551 [Worker-216: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:30:38,062 [Worker-216: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:30:38,063 [Worker-216: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-19 21:30:38,064 [Worker-216: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:30:38,064 [Worker-216: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:31:01,517 [Worker-222: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-19 21:31:01,517 [Worker-222: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-19 21:31:01,517 [Worker-222: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-19 21:31:03,525 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:31:03,526 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 21:31:03,529 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:31:03,529 [Worker-224: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:31:10,150 [Worker-225: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-19 21:31:10,150 [Worker-225: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-19 21:31:10,150 [Worker-225: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-19 21:31:16,048 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:31:16,050 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 21:31:16,051 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:31:16,051 [Worker-223: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:32:46,874 [Worker-216: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-19 21:32:46,874 [Worker-216: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-19 21:32:46,874 [Worker-216: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-19 21:32:48,881 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:32:48,882 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 21:32:48,886 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:32:48,886 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:32:58,852 [Worker-226: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-19 21:32:58,852 [Worker-226: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-19 21:32:58,852 [Worker-226: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-19 21:33:03,913 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:33:03,914 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 21:33:03,916 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:33:03,916 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:33:11,474 [Worker-216: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:33:11,474 [Worker-216: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-19 21:33:11,475 [Worker-216: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:33:11,475 [Worker-216: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:34:14,593 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:34:14,593 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-19 21:34:14,594 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:34:14,594 [Worker-222: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:34:48,543 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-07-19 21:34:52,387 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:34:52,393 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 21:34:52,398 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:34:52,398 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:35:29,316 [Worker-24: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-19 21:35:29,317 [Worker-24: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-19 21:35:29,317 [Worker-24: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-19 21:35:31,637 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:35:31,645 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 21:35:31,651 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:35:31,651 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:35:40,054 [Worker-21: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-19 21:35:40,054 [Worker-21: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-19 21:35:40,055 [Worker-21: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-19 21:35:45,942 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:35:45,943 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 21:35:45,944 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:35:45,944 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:45:42,734 [Worker-32: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-19 21:45:42,734 [Worker-32: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-19 21:45:42,734 [Worker-32: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-19 21:45:45,742 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:45:45,744 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 21:45:45,761 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:45:45,761 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:45:51,423 [Worker-35: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-19 21:45:51,423 [Worker-35: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-19 21:45:51,423 [Worker-35: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-19 21:45:56,425 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:45:56,426 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 21:45:56,427 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:45:56,427 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:46:35,183 [Worker-36: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-19 21:46:35,183 [Worker-36: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-19 21:46:35,183 [Worker-36: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-19 21:46:37,198 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:46:37,199 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 21:46:37,202 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:46:37,203 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:46:42,563 [Worker-36: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-19 21:46:42,563 [Worker-36: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-19 21:46:42,563 [Worker-36: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-19 21:46:48,465 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:46:48,466 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 21:46:48,468 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:46:48,468 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:46:57,336 [Worker-37: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:46:57,337 [Worker-37: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-19 21:46:57,338 [Worker-37: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:46:57,338 [Worker-37: Launching Start2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:47:44,545 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:47:44,545 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-19 21:47:44,546 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:47:44,546 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:48:07,514 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-07-19 21:48:09,764 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:48:09,770 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 21:48:09,777 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:48:09,777 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:48:35,426 [Worker-25: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-19 21:48:35,427 [Worker-25: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-07-19 21:48:35,427 [Worker-25: Launching Executing clean in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-19 21:48:37,526 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:48:37,532 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 21:48:37,537 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:48:37,538 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:48:48,465 [Worker-12: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo
+2020-07-19 21:48:48,465 [Worker-12: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-07-19 21:48:48,465 [Worker-12: Launching Executing install in C__tianxin_study_MSc Thesis_Thesis_New Method test_workspace_demo] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2020-07-19 21:48:53,528 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:48:53,529 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-19 21:48:53,531 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:48:53,531 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 21:51:14,368 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:51:14,369 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-19 21:51:14,370 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 21:51:14,371 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 22:03:33,375 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 22:03:33,375 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-19 22:03:33,376 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 22:03:33,376 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
+2020-07-19 23:26:02,496 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 23:26:02,497 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-19 23:26:02,497 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-19 23:26:02,498 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\tianxin\study\MSc Thesis\Thesis\New Method test\workspace\demo\src\test\resources
